@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{F83EEF3E-B683-7991-7CDB-FD37260FC6DE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/200214_bakusin/Script/StartTime.cs">
+    <Files>
+      <File FileName="Assets/200214_bakusin/Script/retry.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Assets/200214_bakusin/Script/obj_bir.cs" Line="1" Column="1" />
+      <File FileName="Assets/200214_bakusin/Script/pick_abc.cs" Line="101" Column="61" />
+      <File FileName="Assets/200214_bakusin/Script/GameManage.cs" Line="38" Column="18" />
+      <File FileName="Assets/200214_bakusin/Script/rand_abc.cs" Line="15" Column="16" />
+      <File FileName="Assets/200214_bakusin/Script/SmokeFade.cs" Line="1" Column="1" />
+      <File FileName="Assets/200214_bakusin/Script/Score.cs" Line="8" Column="26" />
+      <File FileName="Assets/200214_bakusin/Script/StartTime.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/200214_bakusin/Script/moveGame.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bakusin" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="200214_bakusin" expanded="True">
+                <Node name="Script" expanded="True">
+                  <Node name="StartTime.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8ca04bb3-0633-4e23-ac8c-2347aa237ee5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
